@@ -1,8 +1,3 @@
 <resources>
-    <string name="app_name">Spotify</string>
-    <string name="spotify_logo">Spotify Logo</string>
-    <string name="album_cover">Album Cover</string>
-    <string name="previous">Previous</string>
-    <string name="play">Play</string>
-    <string name="next">Next</string>
+    <string name="app_name">TugasDay11</string>
 </resources>
